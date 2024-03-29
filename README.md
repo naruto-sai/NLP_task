@@ -57,8 +57,8 @@ question = "What is the treatment administered to the patient?"
 <br>
 question_2 = "What are the drugs administered to the patient"
 
-[Model1]([url](https://huggingface.co/d4data/biomedical-ner-all))
+[Model1] https://huggingface.co/d4data/biomedical-ner-all
 <br>
-[Model2]([url](https://huggingface.co/GonzaloValdenebro/MedicalQuestionAnswering))
+[Model2] https://huggingface.co/GonzaloValdenebro/MedicalQuestionAnswering
 <br>
-[Model3]([url](https://huggingface.co/google-bert/bert-large-uncased-whole-word-masking-finetuned-squad))
+[Model3] https://huggingface.co/google-bert/bert-large-uncased-whole-word-masking-finetuned-squad
