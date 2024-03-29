@@ -47,7 +47,7 @@ So, I tried to change the prompt and see the change in result, but it didn't mak
 
 Method3:
 
-I tried BERT large model (uncased) whole word masking finetuned on SQuAD which is based on the BERT architecture except the model is trained on the Wholeword masking where all the tokens corresponding to a word are masked at once and are predicted by the model. 
+I tried `BERT large model (uncased) whole word masking finetuned on SQuAD` which is based on the BERT architecture except the model is trained on the Wholeword masking where all the tokens corresponding to a word are masked at once and are predicted by the model. 
 
 This model seems to perform reasonably well compared to the models that are finetuned on medical data explicilty. It's able to identify the treatment accuractely and the drug administered to the patient for both the prompts. 
 
